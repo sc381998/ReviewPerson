@@ -1,2 +1,0 @@
-# ReviewPerson
-Created with CodeSandbox
